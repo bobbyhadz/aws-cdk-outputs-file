@@ -1,0 +1,5 @@
+{
+  "cdk-stack": {
+    "region": "eu-central-1"
+  }
+}
