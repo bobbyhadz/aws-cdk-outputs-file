@@ -1,7 +1,7 @@
 # How to write CDK Outputs to a File
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-outputs-file).
+[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-outputs-file)
 
 ## How to Use
 
