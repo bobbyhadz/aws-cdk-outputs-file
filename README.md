@@ -16,7 +16,7 @@ npm install
 3. Create the CDK stack
 
 ```bash
-npx cdk deploy cdk-stack \
+npx aws-cdk deploy cdk-stack \
   --outputs-file ./cdk-outputs.json
 ```
 
@@ -26,5 +26,5 @@ npx cdk deploy cdk-stack \
 5. Cleanup
 
 ```bash
-npx cdk destroy
+npx aws-cdk destroy
 ```
